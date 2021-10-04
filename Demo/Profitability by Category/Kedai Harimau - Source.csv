@@ -1,100 +1,100 @@
-﻿ID,Item,Category, Revenue , COGS 
-1,Apple ,Fruits, 478.00 , 420.64 
-2,Asparagus,Fruits, 165.00 , 145.53 
-3,Bacon,Meat, 65.00 , 47.19 
-4,Bananas,Fruits, 85.00 , 72.93 
-5,"Beef, Bonless Stew",Meat, 421.00 , 331.75 
-6,"Beef, Ground (73% lean)",Meat, 91.00 , 72.25 
-7,"Beef, Ground (80% lean)",Meat, 141.00 , 120.13 
-8,"Beef, Ground (85% lean)",Meat, 474.00 , 347.92 
-9,"Beef, Ground (93% lean)",Meat, 403.00 , 317.56 
-10,"Beef, Whole Beef Brisket",Meat, 468.00 , 443.66 
-11,Bread,Dry/Canned Goods, 41.00 , 32.47 
-12,Broccoli,Fruits, 478.00 , 409.17 
-13,Brownie Mix,Dry/Canned Goods, 500.00 , 446.00 
-14,Butter (stick),Refrigerated Items, 298.00 , 267.60 
-15,Butter (tub),Refrigerated Items, 423.00 , 328.25 
-16,Canned Vegetables,Dry/Canned Goods, 149.00 , 125.46 
-17,Carrots,Fruits, 145.00 , 113.10 
-18,Cauliflower,Fruits, 205.00 , 128.33 
-19,Celery,Fruits, 66.00 , 54.38 
-20,Cereal,Dry/Canned Goods, 376.00 , 255.68 
-21,Cheese (shredded),Refrigerated Items, 83.00 , 79.51 
-22,Cheese (sliced),Refrigerated Items, 346.00 , 207.60 
-23,Chicken (bnls/skinls),Meat, 469.00 , 299.22 
-24,Chicken (drums),Meat, 121.00 , 97.53 
-25,Chicken (split),Meat, 162.00 , 123.77 
-26,Chicken (thighs),Meat, 148.00 , 144.45 
-27,Chicken (whole),Meat, 374.00 , 246.09 
-28,Chips,Dry/Canned Goods, 172.00 , 139.66 
-29,Chocolate chips,Dry/Canned Goods, 86.00 , 56.93 
-30,Corn,Fruits, 442.00 , 297.02 
-31,Crackers,Dry/Canned Goods, 117.00 , 80.03 
-32,Cream Cheese,Refrigerated Items, 344.00 , 245.62 
-33,Cucumbers,Fruits, 310.00 , 212.66 
-34,Diapers,Cleaning, 151.00 , 96.34 
-35,Eggs,Refrigerated Items, 383.00 , 253.55 
-36,Flour,Dry/Canned Goods, 260.00 , 186.16 
-37,Frozen Veggies,Frozen Food, 250.00 , 211.00 
-38,Fruit Snacks,Dry/Canned Goods, 383.00 , 265.80 
-39,Grapes,Fruits, 174.00 , 160.43 
-40,Hamburger/ Hot Dog Buns,Dry/Canned Goods, 383.00 , 271.93 
-41,Ice Cream,Frozen Food, 468.00 , 464.26 
-42,Jelly/Jam,Dry/Canned Goods, 381.00 , 332.99 
-43,Ketchup,Dry/Canned Goods, 314.00 , 197.82 
-44,Kitchen Trash Bags,Cleaning, 199.00 , 169.15 
-45,Laundry Detergent,Cleaning, 489.00 , 430.32 
-46,Lettuce,Fruits, 477.00 , 475.09 
-47,Mango ,Fruits, 465.00 , 287.37 
-48,Mayo,Dry/Canned Goods, 151.00 , 110.53 
-49,Milk,Refrigerated Items, 223.00 , 169.48 
-50,Mushrooms,Fruits, 215.00 , 208.98 
-51,Oats,Dry/Canned Goods, 389.00 , 319.76 
-52,Oil (vegetable),Dry/Canned Goods, 65.00 , 63.05 
-53,Olive Oil,Dry/Canned Goods, 119.00 , 107.10 
-54,Onions,Fruits, 331.00 , 223.09 
-55,Orange ,Fruits, 221.00 , 185.64 
-56,Paper Towels,Cleaning, 104.00 , 92.98 
-57,Pasta,Dry/Canned Goods, 161.00 , 103.04 
-58,Peanut butter,Dry/Canned Goods, 349.00 , 233.83 
-59,Peppers,Fruits, 310.00 , 221.96 
-60,Pizza,Frozen Food, 329.00 , 204.64 
-61,Potatos,Fruits, 99.00 , 78.01 
-62,Salad (head),Fruits, 167.00 , 136.27 
-63,Salad (package),Fruits, 473.00 , 461.65 
-64,Salad Dressing,Dry/Canned Goods, 235.00 , 200.69 
-65,Soda (bottle),Dry/Canned Goods, 303.00 , 276.34 
-66,Soda (can),Dry/Canned Goods, 60.00 , 41.40 
-67,Soup (canned),Dry/Canned Goods, 336.00 , 266.78 
-68,Sour Cream,Refrigerated Items, 356.00 , 336.06 
-69,Spaghetti Sauce,Dry/Canned Goods, 275.00 , 198.55 
-70,Spinach,Fruits, 483.00 , 397.03 
-71,Squash,Fruits, 183.00 , 114.19 
-72,Steak- Bnless Ribeye Steak,Meat, 178.00 , 122.46 
-73,Steak- Bone In Strip,Meat, 429.00 , 364.65 
-74,Steak- Boneless chuck roast,Meat, 305.00 , 297.68 
-75,Steak- Boneless New York Strip,Meat, 245.00 , 176.89 
-76,Steak- Boneless Sirloin,Meat, 226.00 , 171.31 
-77,Steak- Bottom Round Roast,Meat, 208.00 , 205.92 
-78,Steak- Cubed steak,Meat, 340.00 , 249.56 
-79,Steak- Eye of round roast,Meat, 204.00 , 155.86 
-80,Steak- Filet Mignon,Meat, 383.00 , 335.51 
-81,"Steak- Flank, Skirt, Flat Iron",Meat, 134.00 , 97.02 
-82,Steak- Porterhouse Steak,Meat, 442.00 , 395.15 
-83,Steak- T-Bone Steak,Meat, 229.00 , 171.75 
-84,Steak-Top Rd LondonBroil,Meat, 400.00 , 377.60 
-85,Strawberries,Fruits, 299.00 , 229.63 
-86,Sugar,Dry/Canned Goods, 135.00 , 93.96 
-87,Toilet Paper,Cleaning, 241.00 , 226.54 
-88,Tomato Paste,Dry/Canned Goods, 455.00 , 397.67 
-89,Tomato Sauce,Dry/Canned Goods, 204.00 , 131.38 
-90,Tomatoes,Fruits, 57.00 , 37.05 
-91,Tortillas,Dry/Canned Goods, 140.00 , 119.84 
-92,Tuna,Dry/Canned Goods, 92.00 , 75.07 
-93,Turkey- Ground Turkey,Meat, 396.00 , 312.84 
-94,Turkey- Whole,Meat, 275.00 , 183.15 
-95,Watermelon,Fruits, 191.00 , 189.09 
-96,Wipes,Cleaning, 425.00 , 385.90 
-97,Yellow Mustard,Dry/Canned Goods, 259.00 , 242.94 
-98,Yogurt,Refrigerated Items, 44.00 , 37.40 
-99,Zucchini,Fruits, 144.00 , 135.65 
+﻿ID,Item,Category,Revenue,COGS
+1,Apple ,Fruits,478,420.64
+2,Asparagus,Fruits,165,145.53
+3,Bacon,Meat,65,47.19
+4,Bananas,Fruits,85,72.93
+5,"Beef, Bonless Stew",Meat,421,331.75
+6,"Beef, Ground (73% lean)",Meat,91,72.25
+7,"Beef, Ground (80% lean)",Meat,141,120.13
+8,"Beef, Ground (85% lean)",Meat,474,347.92
+9,"Beef, Ground (93% lean)",Meat,403,317.56
+10,"Beef, Whole Beef Brisket",Meat,468,443.66
+11,Bread,Dry/Canned Goods,41,32.47
+12,Broccoli,Fruits,478,409.17
+13,Brownie Mix,Dry/Canned Goods,500,446
+14,Butter (stick),Refrigerated Items,298,267.6
+15,Butter (tub),Refrigerated Items,423,328.25
+16,Canned Vegetables,Dry/Canned Goods,149,125.46
+17,Carrots,Fruits,145,113.1
+18,Cauliflower,Fruits,205,128.33
+19,Celery,Fruits,66,54.38
+20,Cereal,Dry/Canned Goods,376,255.68
+21,Cheese (shredded),Refrigerated Items,83,79.51
+22,Cheese (sliced),Refrigerated Items,346,207.6
+23,Chicken (bnls/skinls),Meat,469,299.22
+24,Chicken (drums),Meat,121,97.53
+25,Chicken (split),Meat,162,123.77
+26,Chicken (thighs),Meat,148,144.45
+27,Chicken (whole),Meat,374,246.09
+28,Chips,Dry/Canned Goods,172,139.66
+29,Chocolate chips,Dry/Canned Goods,86,56.93
+30,Corn,Fruits,442,297.02
+31,Crackers,Dry/Canned Goods,117,80.03
+32,Cream Cheese,Refrigerated Items,344,245.62
+33,Cucumbers,Fruits,310,212.66
+34,Diapers,Cleaning,151,96.34
+35,Eggs,Refrigerated Items,383,253.55
+36,Flour,Dry/Canned Goods,260,186.16
+37,Frozen Veggies,Frozen Food,250,211
+38,Fruit Snacks,Dry/Canned Goods,383,265.8
+39,Grapes,Fruits,174,160.43
+40,Hamburger/ Hot Dog Buns,Dry/Canned Goods,383,271.93
+41,Ice Cream,Frozen Food,468,464.26
+42,Jelly/Jam,Dry/Canned Goods,381,332.99
+43,Ketchup,Dry/Canned Goods,314,197.82
+44,Kitchen Trash Bags,Cleaning,199,169.15
+45,Laundry Detergent,Cleaning,489,430.32
+46,Lettuce,Fruits,477,475.09
+47,Mango ,Fruits,465,287.37
+48,Mayo,Dry/Canned Goods,151,110.53
+49,Milk,Refrigerated Items,223,169.48
+50,Mushrooms,Fruits,215,208.98
+51,Oats,Dry/Canned Goods,389,319.76
+52,Oil (vegetable),Dry/Canned Goods,65,63.05
+53,Olive Oil,Dry/Canned Goods,119,107.1
+54,Onions,Fruits,331,223.09
+55,Orange ,Fruits,221,185.64
+56,Paper Towels,Cleaning,104,92.98
+57,Pasta,Dry/Canned Goods,161,103.04
+58,Peanut butter,Dry/Canned Goods,349,233.83
+59,Peppers,Fruits,310,221.96
+60,Pizza,Frozen Food,329,204.64
+61,Potatos,Fruits,99,78.01
+62,Salad (head),Fruits,167,136.27
+63,Salad (package),Fruits,473,461.65
+64,Salad Dressing,Dry/Canned Goods,235,200.69
+65,Soda (bottle),Dry/Canned Goods,303,276.34
+66,Soda (can),Dry/Canned Goods,60,41.4
+67,Soup (canned),Dry/Canned Goods,336,266.78
+68,Sour Cream,Refrigerated Items,356,336.06
+69,Spaghetti Sauce,Dry/Canned Goods,275,198.55
+70,Spinach,Fruits,483,397.03
+71,Squash,Fruits,183,114.19
+72,Steak- Bnless Ribeye Steak,Meat,178,122.46
+73,Steak- Bone In Strip,Meat,429,364.65
+74,Steak- Boneless chuck roast,Meat,305,297.68
+75,Steak- Boneless New York Strip,Meat,245,176.89
+76,Steak- Boneless Sirloin,Meat,226,171.31
+77,Steak- Bottom Round Roast,Meat,208,205.92
+78,Steak- Cubed steak,Meat,340,249.56
+79,Steak- Eye of round roast,Meat,204,155.86
+80,Steak- Filet Mignon,Meat,383,335.51
+81,"Steak- Flank, Skirt, Flat Iron",Meat,134,97.02
+82,Steak- Porterhouse Steak,Meat,442,395.15
+83,Steak- T-Bone Steak,Meat,229,171.75
+84,Steak-Top Rd LondonBroil,Meat,400,377.6
+85,Strawberries,Fruits,299,229.63
+86,Sugar,Dry/Canned Goods,135,93.96
+87,Toilet Paper,Cleaning,241,226.54
+88,Tomato Paste,Dry/Canned Goods,455,397.67
+89,Tomato Sauce,Dry/Canned Goods,204,131.38
+90,Tomatoes,Fruits,57,37.05
+91,Tortillas,Dry/Canned Goods,140,119.84
+92,Tuna,Dry/Canned Goods,92,75.07
+93,Turkey- Ground Turkey,Meat,396,312.84
+94,Turkey- Whole,Meat,275,183.15
+95,Watermelon,Fruits,191,189.09
+96,Wipes,Cleaning,425,385.9
+97,Yellow Mustard,Dry/Canned Goods,259,242.94
+98,Yogurt,Refrigerated Items,44,37.4
+99,Zucchini,Fruits,144,135.65
